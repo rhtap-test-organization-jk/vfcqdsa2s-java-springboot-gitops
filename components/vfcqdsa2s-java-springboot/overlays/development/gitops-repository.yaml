@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vfcqdsa2s-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/vfcqdsa2s-java-springboot-gitops
